@@ -66,7 +66,7 @@ int main() {
     unsigned int hashesDone = 0;
 	
     for (int a = 0; a < posLen; a++) {
-        for (int b = pos('0'); b < posLen; b++) {
+        for (int b = 0; b < posLen; b++) {
             stop = timer_now();
             float timePerPos = timer_elapsed(start, stop);
             posTested += 1;
