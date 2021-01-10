@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MD5-Cracker", "MD5-Cracker.vcxproj", "{B871B990-D614-4532-B617-C75AABFF73D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B871B990-D614-4532-B617-C75AABFF73D6}.Debug|x64.ActiveCfg = Debug|x64
+		{B871B990-D614-4532-B617-C75AABFF73D6}.Debug|x64.Build.0 = Debug|x64
+		{B871B990-D614-4532-B617-C75AABFF73D6}.Release|x64.ActiveCfg = Release|x64
+		{B871B990-D614-4532-B617-C75AABFF73D6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EF98E64-95AC-4F8F-A926-0F7330EE6299}
+	EndGlobalSection
+EndGlobal
